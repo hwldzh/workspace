@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="txt_blue">#FF007CB0</color>
+    <color name="txt_gray">#FF575756</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="txt_orange">#FFEB6100</color>
+    <color name="bg_gray">#FFE3E3E7</color>
+    <color name="transparent">#000000</color>
+    <color name="bg">#FFF39200</color>
+    <color name="lightblue">#FF007AA2</color>
+    <color name="lightorange">#FFACBA00</color>
+    <color name="red">#FFFF0000</color>
+    <color name="transparentdarkgray">#CC292929</color>
+    <color name="transparentgray">#CC666666</color>
+    <color name="yellow">#ff9933</color>
+    <color name="gray">#ff333333</color>
+    <color name="light_blue">#5CACEE</color>
+	<color name="light_gray">#87CEEB</color>
+	<color name="orange_red">#613030</color>
+	<color name="whiteGray">#ffC9CACB</color>
+	<color name="nomalGray">#838B83</color>
+	<color name="blue">#436EEE</color>
+	<color name="light_orange">#FFFCBA00</color>
+	<color name="coffee">#622f1b</color>
+    <color name="black2">#80000000</color>
+    <color name="green">#008000</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="grey_black">#2E2E2E</color>
+    <color name="bgGrayDeep">#ff3b3b3b</color>
+    <color name="bgGray">#ff5e5e5e</color>
+    <color name="greenDeep">#ff213839</color>
+    <color name="yellowDeep">#ffffcb66</color>
+    <color name="yellowWathet">#fffde628</color>
+    <color name="orange">#ffffaa00</color>
+    <color name="orangeDeep">#ffff8109</color>
+</resources>
